@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
             </Head>
             <section className={utilStyles.headingMd}>
                 <p>
-                    Hello, my name's Taufan Septaufani, I'm software engineer. I'm learning React with Next.js.
+                    Hello, my name&apos;s Taufan Septaufani, I&apos;m software engineer. I&apos;m learning React with Next.js.
                 </p>
                 <p>
                     (This is a sample website - you’ll be building a site like this on{' '}
