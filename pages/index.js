@@ -25,8 +25,7 @@ export default function Home({ allPostsData }) {
                     Hello, my name&apos;s Taufan Septaufani, I&apos;m software engineer. I&apos;m learning React with Next.js.
                 </p>
                 <p>
-                    (This is a sample website - you’ll be building a site like this on{' '}
-                    <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+                   This is my first project with Next.js. Step by step from Next.js documentation to build this project. Now I know it's easy to create this. I will learn more...
                 </p>
             </section>
             <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
